@@ -1,0 +1,42 @@
+[
+    {
+        "header": "Question 1",
+        "text": "Were the portion sizes adequate for the price paid?"
+    },
+    {
+        "header": "Question 2",
+        "text": "How would you rate the overall dining experience at the restaurant?"
+    },
+    {
+        "header": "Question 3",
+        "text": "How would you rate your overall dining experience at our restaurant?"
+    },
+    {
+        "header": "Question 4",
+        "text": "What specific aspects of your experience did you enjoy the most?"
+    },
+    {
+        "header": "Question 5",
+        "text": "Were there any areas where you felt our restaurant could improve?"
+    },
+    {
+        "header": "Question 6",
+        "text": "How would you rate the quality of the food served?"
+    },
+    {
+        "header": "Question 7",
+        "text": "Did you encounter any issues with the service provided by our staff? If so, please describe."
+    },
+    {
+        "header": "Question 8",
+        "text": "How would you describe the ambiance or atmosphere of our restaurant?"
+    },
+    {
+        "header": "Question 9",
+        "text": "Did you find the pricing of our menu items reasonable? Do you have any suggestions for improvement in this area?"
+    },
+    {
+        "header": "Question 10",
+        "text": "Who is dhanush?"
+    }
+]
