@@ -55,7 +55,7 @@ db = Chroma.from_documents(texts, embeddings)
 retriever = db.as_retriever(search_kwargs={"k": 10})
 docs = retriever.get_relevant_documents("restaurant?")
 
-llm = HuggingFaceEndpoint(repo_id="google/gemma-7b")
+llm = HuggingFaceEndpoint(repo_id="mistralai/Mistral-7B-Instruct-v0.2")
 chain = load_qa_chain(llm, chain_type="stuff")
 
 # Define get_answer function before Flask routes
